@@ -53,7 +53,7 @@ personas.addEventListener('input', ()=>{
         calcTip()
     }
 
-let custom = document.querySelector('.btns__custom');
+let custom = document.querySelector('.custom');
 custom.addEventListener('click', ()=>{
     Borrarseleccion()
 });

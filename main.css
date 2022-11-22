@@ -24,7 +24,7 @@
     padding: 32px;
   }
   
-  .inputs-section__bill-label {
+  .bill-etiqueta {
     display: block;
     color: hsl(186deg, 14%, 43%);
     font-size: 0.75em;
@@ -84,7 +84,7 @@
     background-color: hsl(172deg, 67%, 45%);
     color: hsl(183deg, 100%, 15%);
   }
-  .btns__custom {
+  .custom {
     font-size: 1em;
     text-align: right;
     caret-color: hsl(172deg, 67%, 45%);
